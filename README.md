@@ -34,11 +34,13 @@ Open the terminal and type following commands.
 
 * `apt update`
 
-* `apt install git`
+* `apt install git unzip`
 
 * `git clone https://github.com/Rajkumrdusad/Tool-X.git`
 
-* `cd Tool-X`
+* `unzip Tool-X-master.zip`
+
+* `cd Tool-X-master`
 
 * `chmod +x install.aex`
 
